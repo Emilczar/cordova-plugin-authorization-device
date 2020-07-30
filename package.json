@@ -1,0 +1,28 @@
+{
+  "name": "AuthorizationDevice",
+  "version": "0.0.1",
+  "description": "authorization-device",
+  "repository": {
+    "type": "git",
+    "url": "REPO"
+  },
+  "cordova": {
+    "id": "cordova-plugin-authorization-device",
+    "platforms": [
+      "iOS,Android"
+    ]
+  },
+  "keywords": [
+    "AuthorizationDevice",
+    "ionic-AuthorizationDevice",
+    "cordova AuthorizationDevice",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "author": "Emilczar",
+  "license": "MIT"
+}
